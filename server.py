@@ -3,6 +3,7 @@ from flask import Flask
 
 random_no = random.randint(0, 100)
 print(random_no)
+#Remove the print statement if you dont want the user to get a hint to what the number is.
 
 app = Flask(__name__)
 
