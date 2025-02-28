@@ -41,4 +41,4 @@ def guess_number(guess):
 
 if __name__ == "__main__":
     app.run(debug=False)
-    #Change "debug" value to true in case you want to restart the server with changes everytime you save the file
+    #Change "debug" value to true in case you want to restart the server with changes everytime you make edits in the file
